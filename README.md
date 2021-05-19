@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm InvalidWolf</h1>
-<h3 align="center">A Python Developer from Austria</h3>
+<h3 align="center">A Python, C# Developer from Austria</h3>
 
-- 🔭 I’m currently working on **SkillZone**
+- 🔭 I’m currently working on **SkillZone and own game**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **C#**
 
 - 💬 Ask me about **everything**
 

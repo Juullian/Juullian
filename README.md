@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm InvalidWolf</h1>
 <h3 align="center">A Python and JS Developer from Austria</h3>
 
-- 🔭 I’m currently working on **Tenpa**
+👩‍💻 I'm currently working on Tenpa
 
-- 🌱 I’m currently learning **JS**
+🧠 I'm currently learning JS/TS
 
-- 💬 Ask me about **everything**
+📫 Discord: InvalidWolf#6020
 
-- 📫 How to reach me **Discord: KleinerWolf#6020**
+😄 Pronouns: He/Him
+
 
 
 <h3 align="left">Languages and Tools:</h3>

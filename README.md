@@ -7,7 +7,7 @@
 
 😄 Pronouns: He/Him
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/497767671392108554)](https://discord.com/users/497767671392108554)
+[![Discord Presence](https://lanyard.cnrad.dev/api/497767671392108554?hideBadges=false)](https://discord.com/users/497767671392108554)
 
 
 <h3 align="left">Languages and Tools:</h3>

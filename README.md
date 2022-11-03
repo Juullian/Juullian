@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm InvalidWolf</h1>
-<h3 align="center">A Python and JS Developer from Austria</h3>
+<h1 align="center">Hi 👋, I'm Julian</h1>
 
 👩‍💻 I'm currently working on nothing
 

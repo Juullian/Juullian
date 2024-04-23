@@ -6,8 +6,6 @@
 
 😄 Pronouns: He/Him
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/497767671392108554?hideBadges=false)](https://discord.com/users/497767671392108554)
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
